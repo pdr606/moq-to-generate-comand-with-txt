@@ -1,0 +1,18 @@
++----------------------------------------+
+|Restaurante:                          |
++----------------------------------------+
+|Data:                                 |
+|Entrega prevista:                     |
+|Solicite o código de confirmação na hora da entrega.|
++----------------------------------------+
+|Mesa:                                 |
+|Garçom:                               |
+|Observação:                           |
++----------------------------------------+
+| Qtd | Item                           |
+| 2   | Pizza de Calabresa                  |
+| 3   | Refrigerante                        |
+| 1   | Sobremesa de Chocolate              |
++----------------------------------------+
+|4Tables Company.                      |
++----------------------------------------+
